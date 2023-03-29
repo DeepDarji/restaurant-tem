@@ -1,0 +1,447 @@
+::selection {
+    background: #fdb813;
+}
+#style-switcher h2 {
+    background-color:#fdb813;
+}
+#style-switcher h2 a {
+    background-color: #fdb813;
+}
+#layout-style {
+    background-color: #fdb813;
+}
+#reset button {
+    background-color: #fdb813;
+}
+.cat_logo svg path.fill {
+	fill:#fdb813;
+}
+.cat_menu ul li a:hover {
+    color:#fdb813;
+}
+.cat_menu ul li a.active {
+    color:#fdb813;
+}
+.cat_top_heading h2 {
+    color:#fdb813;
+}
+.cat_menu ul >li >ul >li:hover a {
+    background-color:#fdb813;
+}
+span.cat_service_icon i:before {
+    color: #fdb813;
+}
+span.cat_subheading {
+    color: #fdb813;
+}
+a.cat_view:hover {
+    color: #fdb813;
+}
+.cat_border {
+    background-color: #fdb813;
+}
+.cat_service_outer:hover .cat_service_data {
+    border-color: #fdb813;
+}
+.cat_dish_img_caption {
+    background: rgba(253, 184, 19, 0.63);
+}
+p.cat_dish_title a {
+    color: #fdb813;
+}
+.cat_dish_category ul li a {
+    color: #fdb813;
+}
+.cat_dish_name span.dish_price {
+    color: #fdb813;
+}
+.cat_news_img .cat_dish_img_caption{
+	background-color:rgba(253, 184, 19, 0.64);
+}
+.footer_intsa_img .cat_dish_img_caption{
+	background-color:rgba(253, 184, 19, 0.64);
+}
+ul.cat_testi_icons li a:before {
+    background: #fdb813;
+}
+.cat_testi_slider .owl-theme .owl-dots .owl-dot.active span, .cat_testi_slider .owl-theme .owl-dots .owl-dot:hover span {
+    border: 1px solid #fdb813;
+}
+span.nws_date {
+    color: #fdb813;
+}
+span.nws_month {
+    color:#fdb813;
+}
+span.cat_news_icon {
+    color: #fdb813;
+}
+.cat_news_data a.cat_view {
+    color: #fdb813;
+}
+.cat_count_box .count_no {
+    color: #fdb813;
+}
+.cat_count_box:hover span.cat_count_icon svg path{
+	fill:#fdb813 !important;
+}
+.cat_subs_text .form-control {
+    border: 1px solid #fdb813;
+}
+.cat_dish_category ul li a:after {
+    background-color: #fdb813;
+}
+button.cat-btn {
+    background-color: #fdb813;
+    border: 1px solid #fdb813;
+}
+.cat_news_slider_wrapper .owl-theme .owl-dots .owl-dot.active span, .cat_news_slider_wrapper .owl-theme .owl-dots .owl-dot:hover span {
+    border: 1px solid #fdb813;
+}
+ul.cat_news_details li:hover a {
+    color: #fdb813;
+}
+.footer .widget.widget_twitter_feed ul li .icon {
+    color:#fdb813;
+}
+.widget.widget_twitter_feed ul li:hover .icon {
+    color: #fff;
+}
+.footer .widget.widget_twitter_feed ul li .content p {
+    color:#fdb813;
+}
+.gototop a {
+    background-color:#fdb813;
+}
+.gototop a:hover {
+    color: #fdb813;
+    border: 1px solid #fdb813;
+}
+button.cat-btn:hover i {
+    color: #fdb813;
+}
+aside.widget.widget_recent_post ul li .cat_post_data p {
+    color:  #fdb813;
+}
+.cat_count_box:hover span.cat_count_icon {
+    border: 1px solid #fdb813;
+    color: #fdb813;
+}.footer aside.widget.widget_cat_whours ul li p {
+    color: #fdb813;
+}
+.fancybox-skin {
+    background: #fdb813 !important;
+}
+.fancybox-title-float-wrap .child {
+    background: #fdb813 !important;
+}
+#fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
+    background-image:none !important;
+	background-color:#fdb813 !important;
+	border-radius:100%;
+
+}
+.fancybox-close:before{
+    content: "\f114";
+    font-family: Flaticon;
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.fancybox-next span:before{
+	content: "\f061";
+    font: normal normal normal 14px/1 FontAwesome;
+    position: absolute;
+    top: 7px;
+    right: 10px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+}
+.fancybox-prev span:before{
+	    content: "\f060";
+    font: normal normal normal 14px/1 FontAwesome;
+    position: absolute;
+    top: 7px;
+    right: 10px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+}
+.menu_toggle {
+    color: #fdb813;
+}
+.cat_menu.open_menu {
+    visibility: visible !important;
+   background-color:rgba(253, 184, 19, 0.8)!important;
+}
+    .cat_menu > ul::-webkit-scrollbar {
+        width: 5px;
+        height: 5px;
+        margin: 0 5px;
+    }
+    .cat_menu > ul::-webkit-scrollbar-track-piece {
+        background-color:#fdb813;
+        border: 3px solid #fdb813;
+    }
+    .cat_menu > ul::-webkit-scrollbar-thumb {
+        background-color: #fdb813;
+    }
+	
+	.cat_button .btn {
+    background-color: #fdb813;
+}
+.cat_button .btn:hover {
+    color: #fdb813;
+}
+.cat_book_form_box .dropdown-menu > li > a:hover, .cat_book_form_box .dropdown-menu > li > a:focus {
+    background-color:#fdb813;
+}
+.cat_book_form_box .form-control:focus, .cat_book_form_box .form-control:hover {
+    color:#fdb813 !important;
+    border-color: #fdb813 !important;
+}
+.datepicker .datepicker-switch:hover, .datepicker .prev:hover, .datepicker .next:hover, .datepicker tfoot tr th:hover {
+    background: #fdb813 !important;
+}
+.datepicker .datepicker-switch:hover, .datepicker .prev:hover, .datepicker .next:hover, .datepicker tfoot tr th:hover {
+    background: #fdb813 !important;
+}
+input#datepicker:focus + span.cat_cal_icon i {
+  color:#fdb813;
+}
+
+input#datepicker:hover + span.cat_cal_icon i {
+  color: #fdb813;
+}
+.cat_book_form_box .form-control:focus::-webkit-input-placeholder, .cat_book_form_box .form-control:hover::-webkit-input-placeholder {
+  color: #fdb813 !important;
+}
+
+.cat_book_form_box .form-control:focus:-moz-placeholder, .cat_book_form_box .form-control:hover:-moz-placeholder {
+  color: #fdb813 !important;
+}
+
+.cat_book_form_box .form-control:focus::-moz-placeholder, .cat_book_form_box .form-control:hover::-moz-placeholder {
+  color: #fdb813 !important;
+}
+
+.cat_book_form_box .form-control:focus:-ms-input-placeholder, .cat_book_form_box .form-control:hover :-ms-input-placeholder {
+  color: #fdb813 !important;
+}
+.cat_book_form_box .bootstrap-select > .dropdown-toggle:hover, .cat_book_form_box .bootstrap-select > .dropdown-toggle:focus {
+    color: #fdb813 !important;
+
+}
+.datepicker .datepicker-switch, .datepicker .prev, .datepicker .next, .datepicker tfoot tr th {
+    color:  #fdb813 !important;
+}
+.datepicker table tr td.day:hover, .datepicker table tr td.day.focused {
+    background:  #fdb813 !important;
+}
+.cat_book_service_wrapper .cat_book_service_form .cat_book_form_box  input.datepicker:focus + span.cat_cal_icon i {
+  color:#fdb813;
+}
+.cat_book_service_wrapper .cat_book_service_form .cat_book_form_box  input.datepicker:hover + span.cat_cal_icon i {
+  color: #fdb813;
+}
+
+.cat_book_service_wrapper .cat_book_service_form .cat_book_form_box .form-control:hover::-webkit-input-placeholder, .cat_book_service_wrapper .cat_book_service_form .cat_book_form_box .form-control:focus::-webkit-input-placeholder {
+  color:#fdb813 !important;
+}
+
+.cat_book_service_wrapper .cat_book_service_form .cat_book_form_box .form-control:hover:-moz-placeholder, .cat_book_service_wrapper .cat_book_service_form .cat_book_form_box .form-control:focus:-moz-placeholder {
+  color:#fdb813 !important;
+}
+
+.cat_book_service_wrapper .cat_book_service_form .cat_book_form_box .form-control:hover :-ms-placeholder, .cat_book_service_wrapper .cat_book_service_form .cat_book_form_box .form-control:focus:-ms-placeholder {
+  color:#fdb813 !important;
+}
+.cat_quote_btn a {
+    background-color:#fdb813;
+    border: 1px solid #fdb813;
+}
+.cat_quote_btn i {
+    color: #fdb813;
+}
+.cat_quote_btn a:hover {
+    color: #fdb813;
+}
+.cat_popup_close {
+    color:#fdb813;
+}
+.cat_menu_events .nav-pills > li.active > a, .cat_menu_events .nav-pills > li.active > a:hover, .cat_menu_events .nav-pills > li.active > a:focus {
+    color: #fdb813;
+    border: 1px solid #fdb813;
+}
+.cat_tab_form .cat_book_form_box .form-control:focus {
+    border-color: #fdb813!important;
+}
+.cat_banner_four .cat_spcl_menu_content h4 {
+    color: #fdb813;
+}
+.cat_banner_four a.cat_view {
+    color: #fdb813;
+}
+.cat_banner_five .cat_book_service_heading {
+    background-color:rgba(253, 184, 19, 0.7);
+}
+.cat_banner_five .cat_book_service_form {
+   background-color:rgba(253, 184, 19, 0.7);
+}
+.cat_banner_five .cat_book_form_box .form-control:focus, .cat_banner_five .cat_book_form_box .form-control:hover {
+  color: #fff!important;
+  border-color: #fff!important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.cat_banner_five  .cat_book_service_form .cat_book_form_box .form-control:focus::-webkit-input-placeholder, .cat_banner_five .cat_book_service_form .cat_book_form_box .form-control:hover::-webkit-input-placeholder {
+  color: #fff !important;
+}
+
+.cat_banner_five  .cat_book_service_form .cat_book_form_box .form-control:focus::-moz-placeholder , .cat_banner_five .cat_book_service_form .cat_book_form_box .form-control:hover::-webkit-input-placeholder {
+  color: #fff !important;
+}
+
+.cat_banner_five .cat_book_service_form .cat_book_form_box .form-control:focus::-ms-placeholder , .cat_banner_five .cat_book_service_form .cat_book_form_box .form-control:hover::-ms-placeholder {
+  color: #fff !important;
+}
+ 
+
+.cat_banner_five .cat_book_service_form .cat_book_form_box  input.datepicker:hover + span.cat_cal_icon i {
+  color: #fff !important;
+}
+
+.cat_book_service_form .cat_book_form_box  input.datepicker:focus + span.cat_cal_icon i {
+  color: #fff !important;
+}
+.datepicker table tr td.active, .datepicker table tr td.active:hover, .datepicker table tr td.active.disabled, .datepicker table tr td.active.disabled:hover {
+    background-color:#fdb813 !important;
+}
+span.cat_mobile_icon {
+    background-color:#fdb813;
+}
+span.cat_mobile_icon:hover {
+    border: 2px solid #fdb813;
+}
+section.cat_bread_wrapper {
+    background-color: #fdb813;
+}
+.cat_hover_img .cat_add_img_caption {
+    background:rgba(253, 184, 19, 0.8);
+}
+.cat_about_content a.cat_view:hover {
+    color:#fdb813;
+}
+.cat_staff_box:hover h6 {
+    color:#fdb813;
+}
+.cat_about_slider .owl-theme .owl-dots .owl-dot.active span, .cat_about_slider .owl-theme .owl-dots .owl-dot:hover span {
+    background:#fdb813;
+}
+span.cat_ad_no {
+    color:#fdb813;
+}
+.cat_add_zoom.cat_so_icons ul li a:before {
+    background-color:#fdb813;
+    border: 1px solid #fdb813;
+}
+
+.cat_history_more a.cat_view:hover {
+    color:#fdb813;
+}
+.cat_secrets_box ul li:hover {
+    color:#fdb813;
+}
+.cat_secrets_box ul li:hover span.cat_secret_points:before {
+    background-color:#fdb813;
+}
+.cat_staff_box a.cat_view:hover {
+    color: #fdb813;
+}
+section.cat_dishes_wrapper.cat_dishmenu_wrapper .cat_dish_img .cat_dish_img_caption {
+    background:rgba(253, 184, 19, 0.8);
+}
+.cat_recipe_inner ul.cat_recipe_list li:hover a {
+    color: #fdb813;
+}
+.cat_recipe_inner ul.cat_recipe_list li:hover span.cat_secret_points:before {
+    background-color: #fdb813;
+}
+.cat_recipe_inner ul.cat_recipe_list li:hover a i {
+    color: #fdb813;
+}
+span.cat_cat_icon {
+    background-color: #fdb813;
+}
+.cat_best_catering_list ul li:hover a i {
+    color:#fdb813;
+}
+span.cat_cat_icon:before {
+    border: 1px solid #fdb813;
+}
+.cat_best_catering_list ul li:hover svg path {
+  fill: #fdb813;
+}
+.comment_form .form-control:hover, .comment_form .form-control:focus {
+    border-color:#fdb813 !important;
+}
+span.cat_contact_icon {
+    color:#fdb813;
+}
+.comment_form .form-control:hover, .comment_form .form-control:focus {
+    border-color:#fdb813;
+}
+.cat_post_date ul.cat_post_details li.pst_author a span.pst_icon {
+    color:#fdb813;
+}
+ul.cat_post_tags li a {
+    color:#fdb813;
+}
+.cat_share_wrapper:hover {
+    border-color:#fdb813;
+}
+.cat_comment-metadata:hover {
+    border-color:#fdb813;
+}
+.cat_comment-metadata a.cat_view {
+    color:#fdb813;
+}
+.cat_text_date {
+    color:#fdb813;
+}
+.widget-area aside.widget_categories ul li:hover a {
+    color:#fdb813;
+}
+.cat_post_date ul.cat_post_details li.pst_cmnt span.pst_icon {
+    color: #fdb813;
+}
+.cat_post_date ul.cat_post_details li.pst_like span.pst_icon {
+    color: #fdb813;
+}
+.cat_post_date ul.cat_post_details li.pst_tweet span.pst_icon {
+    color:#fdb813;
+}
+.cat_post_date ul.cat_post_details li.pst_write span.pst_icon {
+    color:#fdb813;
+}
+ul.cat_post_tags li a:before {
+    color:#fdb813;
+}
+ul.cat_post_category li a {
+    color: #fdb813;
+}
+ul.cat_post_category li a:before {
+    color:#fdb813;
+}
+.cat_red {
+    color:#fdb813;
+}
+.cat_spcl_food svg path{
+	fill:#fdb813;
+}

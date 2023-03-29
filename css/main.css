@@ -1,0 +1,22 @@
+@import url("bootstrap.css");
+@import url("font-awesome.css"); 
+@import url("animate.css"); 
+@import url("simple-line-icons.css"); 
+@import url("flaticon.css"); 
+@import url("fonts.css"); 
+@import url("custom_animation.css"); 
+@import url("switcher.css"); 
+@import url("style.css"); 
+@import url("responsive.css");  
+/*Plugins*/
+@import url("../js/plugins/owl/owl.carousel.css");
+@import url("../js/plugins/owl/owl.theme.css");
+@import url("../js/plugins/gallery/magnific-popup.css");
+@import url("../js/plugins/selectpicker/bootstrap-select.css");
+@import url("../js/plugins/datepicker/bootstrap-datepicker.css");
+/** revolution slider **/
+@import url("../js/plugins/revolution/css/layers.css");
+@import url("../js/plugins/revolution/css/navigation.css");
+@import url("../js/plugins/revolution/css/settings.css");
+/** revolution slider **/
+

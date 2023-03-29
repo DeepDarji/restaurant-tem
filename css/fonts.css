@@ -1,0 +1,55 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Abril Fatface';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/AbrilFatface-Regular.woff2);
+}
+@font-face {
+  font-family: 'Abril Fatface';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/AbrilFatface-Regular.woff);
+}
+/*niconne*/
+/* latin-ext */
+@font-face {
+  font-family: 'Niconne';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Niconne-Regular.woff2);
+}
+@font-face {
+  font-family: 'Niconne';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Niconne-Regular.woff);
+}
+/*montserrat*/
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Montserrat-Regular.woff2);
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Montserrat-Regular.woff);
+}
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/Montserrat-Bold.woff2);
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/Montserrat-Bold.woff);
+}
+
